@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(191, 202, 197);
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+} body
+
+.tudo{ 
+	margin: 0 auto;
+	padding: 8px;
+	border: solid 1px #000;
+	width: 600px;
+}
+.esquerda {			 
+	width: 30%;
+	height: 100px;
+	float: left; 
+	color: #0a0101;
+}
+.direita { 
+	width: 70%;
+	height: 100px;
+	float: left; 
+}
+.unica{
+
+	height: 100px;
+}
+.linha{
+	clear: both; /* garante a posição abaixo da divs superiores (esquerda e direita),  */
+	height: 150px;
+}
+
+#interesses{
+	width: 460px;
+}
+
+#redes{
+	width: 140px;
+}
